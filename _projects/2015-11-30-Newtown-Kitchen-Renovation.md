@@ -1,5 +1,5 @@
 ---
-title: 'KITCHEN'
+title: 'KITCHEN RENOVATION'
 subtitle: 'NEWTOWN, PA'
 date: 2015-11-30
 description: 

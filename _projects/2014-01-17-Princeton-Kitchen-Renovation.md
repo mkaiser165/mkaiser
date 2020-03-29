@@ -1,5 +1,5 @@
 ---
-title: 'KITCHEN'
+title: 'KITCHEN RENOVATION'
 subtitle: 'PRINCETON, NJ'
 date: 2014-01-17
 description: 
