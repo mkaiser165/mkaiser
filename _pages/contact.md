@@ -6,8 +6,7 @@ featured_image:
 ---
 
 ### MAILING
-PO BOX 537
-CRANBURY, NJ 08512
+PO BOX 537, CRANBURY, NJ 08512
 
 
 ### PHONE
