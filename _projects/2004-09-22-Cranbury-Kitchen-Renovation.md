@@ -1,7 +1,7 @@
 ---
-title: 'KITCHEN'
+title: 'KITCHEN RENOVATION'
 subtitle: 'CRANBURY, NJ'
-date: 2018-06-30 00:00:00
+date: 2004-09-22
 description: 
 featured_image: '/images/Mento/MG_0821_mento.jpg'
 ---

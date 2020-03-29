@@ -1,7 +1,7 @@
 ---
-title: 'BATHROOM'
-subtitle: 'NJ'
-date: 2018-06-30 00:00:00
+title: 'BATHROOM RENOVATION'
+subtitle: 'PLAINSBORO, NJ'
+date: 2003-06-24
 description: 
 featured_image: '/images/Richardson/luna_6614.jpg'
 ---

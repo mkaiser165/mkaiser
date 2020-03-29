@@ -1,7 +1,7 @@
 ---
 title: 'RENOVATION'
-subtitle: 'NJ'
-date: 2018-06-30 00:00:00
+subtitle: 'PRINCETON, NJ'
+date: 2004-03-04
 description: 
 featured_image: '/images/Pika-Roberge/P3020091.JPG'
 ---

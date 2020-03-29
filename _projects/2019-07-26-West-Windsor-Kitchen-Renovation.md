@@ -1,7 +1,7 @@
 ---
-title: 'KITCHEN'
+title: 'KITCHEN RENOVATION'
 subtitle: 'WEST WINDSOR, NJ'
-date: 2018-06-30 00:00:00
+date: 2019-07-26
 description: 
 featured_image: '/images/Todd/Todd_Kitchen-5.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'COMMERCIAL'
 subtitle: 'PRINCETON, NJ'
-date: 2018-06-30 00:00:00
+date: 2004-09-01
 description: 
 featured_image: '/images/Halo_Fete/cafe.jpg'
 ---

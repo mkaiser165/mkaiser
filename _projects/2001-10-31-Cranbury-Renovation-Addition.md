@@ -1,7 +1,7 @@
 ---
-title: 'RENOVATION'
+title: 'RENOVATION + ADDITION'
 subtitle: 'CRANBURY, NJ'
-date: 2018-06-30 00:00:00
+date: 2001-10-31
 description: 
 featured_image: '/images/Teeter/7_DSCF0005a.jpg'
 ---

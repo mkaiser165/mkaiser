@@ -1,7 +1,7 @@
 ---
-title: 'KITCHEN'
-subtitle: 'NJ'
-date: 2018-06-30 00:00:00
+title: 'RENOVATION + ADDITION'
+subtitle: 'EAST WINDSOR, NJ'
+date: 2002-12-13
 description: 
 featured_image: '/images/DAmbrosia/kaiser_2383.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
-title: 'ADDITION'
+title: 'RENOVATION + ADDITION'
 subtitle: 'CRANBURY, NJ'
-date: 2018-06-30 00:00:00
+date: 2005-05-03
 description: 
 featured_image: '/images/Brendel/Kitchen_1.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'SHOW HOUSE'
 subtitle: 'CRANBURY, NJ'
-date: 2018-06-30 00:00:00
+date: 2007-10-02
 description: 
 featured_image: '/images/Show_House/ShowhousePictures001.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'ADDITION'
-subtitle: 'WEST WINDSOR, NJ'
-date: 2018-06-30 00:00:00
+subtitle: 'CRANBURY, NJ'
+date: 2003-04-03
 description: 
 featured_image: '/images/Thomsson/DSCF7291e.jpg'
 ---

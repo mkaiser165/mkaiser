@@ -1,7 +1,7 @@
 ---
 title: 'RENOVATION'
 subtitle: 'HIGHTSTOWN, NJ'
-date: 2018-06-30 00:00:00
+date: 2000-06-30
 description: 
 featured_image: '/images/Zaiser/KIF_011.JPG'
 ---

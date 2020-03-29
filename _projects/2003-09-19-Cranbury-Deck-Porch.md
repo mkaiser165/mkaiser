@@ -1,7 +1,7 @@
 ---
-title: 'DECK'
-subtitle: 'WEST WINDSOR, NJ'
-date: 2018-06-30 00:00:00
+title: 'DECK + PORCH'
+subtitle: 'CRANBURY, NJ'
+date: 2003-09-19
 description: 
 featured_image: '/images/Johnson/kaiser_5.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'KITCHEN'
-subtitle: 'NJ'
-date: 2018-06-30 00:00:00
+subtitle: 'NEWTOWN, PA'
+date: 2015-11-30
 description: 
 featured_image: '/images/Dobosh/Dobosh-011.jpg'
 ---

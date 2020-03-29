@@ -1,7 +1,7 @@
 ---
 title: 'KITCHEN'
 subtitle: 'PRINCETON, NJ'
-date: 2018-06-30 00:00:00
+date: 2014-01-17
 description: 
 featured_image: '/images/Deitch/Deitch_04-2014(2).jpg'
 ---

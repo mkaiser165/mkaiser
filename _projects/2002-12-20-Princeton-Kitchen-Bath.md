@@ -1,7 +1,7 @@
 ---
-title: 'KITCHEN & BATHROOM'
-subtitle: 'NJ'
-date: 2018-06-30 00:00:00
+title: 'KITCHEN + BATHROOM'
+subtitle: 'PRINCETON, NJ'
+date: 2002-12-20
 description: 
 featured_image: '/images/Miyamoto/DSCF0050a.jpg'
 ---
