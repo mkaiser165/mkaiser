@@ -10,7 +10,7 @@ featured_image: '/images/Brendel/Kitchen_1.jpg'
 	<img src="/images/Brendel/Bar_counter.jpg">
 	<img src="/images/Brendel/Ceiling_close_up.jpg">
 	<img src="/images/Brendel/Chalk_doors.jpg">
-	<img src="/images/Brendel/Chalk_Pantry doors.jpg">
+	<img src="/images/Brendel/Chalk_Pantry_doors.jpg">
 	<img src="/images/Brendel/China_Cabinnet.jpg">
 	<img src="/images/Brendel/Corner_unit.jpg">
 	<img src="/images/Brendel/Family_Room_left.jpg">
