@@ -25,7 +25,7 @@ grid_settings:
 
 contact_settings:
   form_action: 'https://formsubmit.co/clay@kaiser.uno'
-  confirmation_url: '/thanks'
+  confirmation_url: 'https://kaiser.build/thanks'
   email_subject: 'Website Submission'
   send_button_text: 'Send Message'
 
