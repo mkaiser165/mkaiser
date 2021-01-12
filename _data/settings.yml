@@ -24,7 +24,7 @@ grid_settings:
   content_alignment: bottom
 
 contact_settings:
-  form_action: 'https://formsubmit.co/info@kaiser.uno'
+  form_action: 'https://formsubmit.co/info@kaiser.build'
   confirmation_url: 'https://kaiser.build/thanks'
   email_subject: 'Website Submission'
   send_button_text: 'Send Message'
